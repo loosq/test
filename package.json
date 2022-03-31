@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.4.1",
+    "vue": "^3.2.31",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-vue": "^2.4.1"
+  }
+}
